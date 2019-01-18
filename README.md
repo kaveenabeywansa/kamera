@@ -1,0 +1,1 @@
+Simple android project that takes pictures and displays them.
